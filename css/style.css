@@ -2,3 +2,14 @@
 header img {
     height: 60px;
 }
+
+/* PAGE 2 */
+form ::placeholder,
+.genre {
+    font-weight: 600;
+}
+
+textarea {
+    resize: none;
+}
+
